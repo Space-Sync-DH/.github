@@ -5,7 +5,6 @@
 - 📊 Reportes Detallados: Genera reportes sobre el uso de los espacios para tomar decisiones informadas y optimizar recursos.
 ## 🛠️ Características Principales:
 - Interfaz Intuitiva: Diseñada para ser fácil de usar, tanto para administradores como para usuarios finales. 👩‍💻👨‍💻
-- Integración Flexible: Se adapta a sistemas existentes, facilitando una transición sin problemas. 🔄
 - Seguridad Robustecida: Asegura que las reservas y la información estén protegidas. 🔒
 ## 🎯 Objetivos del Proyecto:
 - Optimizar el Uso de Espacios: Minimizar conflictos y maximizar la eficiencia operativa. 📈
